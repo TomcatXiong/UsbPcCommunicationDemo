@@ -1,0 +1,6 @@
+# UsbPcCommunicationDemo
+UsbPcCommunicationDemo
+设备端：
+SocketServer:服务端接收socket信息，回复设备端的时间戳信息
+PC端：
+SockectClient:PC端每隔3s给监听端口发送PC时间戳信息
